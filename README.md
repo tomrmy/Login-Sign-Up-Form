@@ -32,4 +32,3 @@ Ce projet ne nécessite aucun environnement de développement complexe. Il suffi
 
    ```bash
    git clone https://github.com/username/projet-login-signup.git
-
