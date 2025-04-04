@@ -41,4 +41,4 @@ Thank you for checking out this project! If you have any questions or suggestion
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/username/projet-login-signup.git
+git clone https://github.com/tomrmy/Login-Sign-Up-Form.git
