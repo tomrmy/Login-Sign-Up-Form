@@ -34,3 +34,11 @@ License
 This project is licensed under the MIT License. You are free to use and modify this code for your own projects.
 
 Thank you for checking out this project! If you have any questions or suggestions, feel free to open an issue or contact me via GitHub.
+
+
+## Installation
+
+Clone this repository to your local machine:
+
+```bash
+git clone https://github.com/username/projet-login-signup.git
