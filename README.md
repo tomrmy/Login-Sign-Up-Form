@@ -33,24 +33,6 @@ Ce projet ne nécessite aucun environnement de développement complexe. Il suffi
    ```bash
    git clone https://github.com/username/projet-login-signup.git
 
-    Ouvrez les fichiers login.html et signup.html dans votre navigateur pour voir les pages en action.
-
-Structure du projet
-
-Le projet contient les fichiers suivants :
-
-    login.html : Page de connexion avec un formulaire de saisie pour le nom d'utilisateur et le mot de passe.
-
-    signup.html : Page d'inscription avec un formulaire pour le nom d'utilisateur, l'email, le mot de passe et la confirmation du mot de passe.
-
-    style.css : Fichier CSS pour la mise en page, les styles et la présentation des pages.
-
-Utilisation
-
-    Ouvrez signup.html pour voir et remplir le formulaire d'inscription. Remplissez les champs (nom d'utilisateur, email, mot de passe, confirmation du mot de passe).
-
-    Ouvrez login.html pour voir et utiliser le formulaire de connexion. Entrez un nom d'utilisateur et un mot de passe pour tester le formulaire.
-
 Ces pages ne sont que des modèles visuels. Elles ne comportent pas de traitement côté serveur ni de validation dynamique.
 License
 
