@@ -1,23 +1,30 @@
 # Projet Login/Signup (HTML et CSS)
 
-Ce projet présente deux pages web simples : **Login** et **Signup**. Elles sont conçues uniquement en **HTML** et **CSS** et sont destinées à fournir une interface utilisateur de base pour l'inscription et la connexion.
+Ce projet présente deux pages web simples : **Login** et **Signup**. Elles sont créées uniquement avec **HTML** et **CSS** et offrent une interface utilisateur de base pour les formulaires de connexion et d'inscription.
+
+Les pages sont statiques et ne comportent pas de logique JavaScript ou de back-end. Elles servent principalement de modèles pour des interfaces de connexion et d'inscription.
 
 ## Fonctionnalités
 
 - **Page d'inscription (Signup)** :
-  - Un formulaire d'inscription avec des champs pour le nom d'utilisateur, l'email et le mot de passe.
-  - Un champ de confirmation du mot de passe.
-  
+  - Formulaire d'inscription avec des champs pour :
+    - Nom d'utilisateur
+    - Email
+    - Mot de passe
+    - Confirmation du mot de passe
+  - Validation de base de la structure des champs (cependant, aucune validation dynamique ou logique n'est implémentée côté client).
+
 - **Page de connexion (Login)** :
-  - Un formulaire de connexion avec des champs pour le nom d'utilisateur et le mot de passe.
-  
-Les pages ne comportent aucune logique dynamique, elles sont simplement une base de formulaire visuel et peuvent être étendues avec du JavaScript ou une solution back-end pour une fonctionnalité complète.
+  - Formulaire de connexion avec des champs pour :
+    - Nom d'utilisateur
+    - Mot de passe
+  - Il s'agit d'un formulaire visuel sans interaction dynamique.
+
+Ces pages sont purement front-end, ce qui signifie qu'il n'y a pas de traitement des données (pas de sauvegarde ni de vérification des utilisateurs).
 
 ## Prérequis
 
-- Un navigateur web moderne (comme Chrome, Firefox, ou Edge).
-
-Le projet est entièrement statique, et il ne nécessite aucune configuration ou installation particulière.
+Ce projet ne nécessite aucun environnement de développement complexe. Il suffit d'un navigateur web moderne (Chrome, Firefox, Edge, Safari, etc.) pour visualiser les pages.
 
 ## Installation
 
@@ -25,3 +32,4 @@ Le projet est entièrement statique, et il ne nécessite aucune configuration ou
 
    ```bash
    git clone https://github.com/username/projet-login-signup.git
+
