@@ -1,41 +1,41 @@
-# Projet Login/Signup (HTML et CSS)
+# Login/Signup Project (HTML and CSS)
 
-Ce projet présente deux pages web simples : **Login** et **Signup**. Elles sont créées uniquement avec **HTML** et **CSS** et offrent une interface utilisateur de base pour les formulaires de connexion et d'inscription.
+This project features two simple web pages: **Login** and **Signup**. They are created using only **HTML** and **CSS** and provide a basic user interface for login and signup forms.
 
-Les pages sont statiques et ne comportent pas de logique JavaScript ou de back-end. Elles servent principalement de modèles pour des interfaces de connexion et d'inscription.
+The pages are static and do not include any JavaScript or back-end logic. They mainly serve as templates for login and signup interfaces.
 
-## Fonctionnalités
+## Features
 
-- **Page d'inscription (Signup)** :
-  - Formulaire d'inscription avec des champs pour :
-    - Nom d'utilisateur
+- **Signup Page**:
+  - Signup form with fields for:
+    - Username
     - Email
-    - Mot de passe
-    - Confirmation du mot de passe
-  - Validation de base de la structure des champs (cependant, aucune validation dynamique ou logique n'est implémentée côté client).
+    - Password
+    - Confirm Password
+  - Basic validation of field structure (however, no dynamic validation or logic is implemented on the client side).
 
-- **Page de connexion (Login)** :
-  - Formulaire de connexion avec des champs pour :
-    - Nom d'utilisateur
-    - Mot de passe
-  - Il s'agit d'un formulaire visuel sans interaction dynamique.
+- **Login Page**:
+  - Login form with fields for:
+    - Username
+    - Password
+  - This is a visual form with no dynamic interaction.
 
-Ces pages sont purement front-end, ce qui signifie qu'il n'y a pas de traitement des données (pas de sauvegarde ni de vérification des utilisateurs).
+These pages are purely front-end, meaning there is no data processing (no saving or verification of users).
 
-## Prérequis
+## Prerequisites
 
-Ce projet ne nécessite aucun environnement de développement complexe. Il suffit d'un navigateur web moderne (Chrome, Firefox, Edge, Safari, etc.) pour visualiser les pages.
+This project does not require any complex development environment. You just need a modern web browser (Chrome, Firefox, Edge, Safari, etc.) to view the pages.
 
 ## Installation
 
-1. Clonez ce repository sur votre machine locale :
+1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/username/projet-login-signup.git
+```bash
+git clone https://github.com/username/projet-login-signup.git
 
-Ces pages ne sont que des modèles visuels. Elles ne comportent pas de traitement côté serveur ni de validation dynamique.
+These pages are purely visual templates. They do not include any server-side processing or dynamic validation.
 License
 
-Ce projet est sous la Licence MIT. Vous pouvez librement utiliser et modifier ce code pour vos propres projets.
+This project is licensed under the MIT License. You are free to use and modify this code for your own projects.
 
-Merci d'avoir consulté ce projet ! Si vous avez des questions ou des suggestions, n'hésitez pas à ouvrir une issue ou à me contacter via GitHub.
+Thank you for checking out this project! If you have any questions or suggestions, feel free to open an issue or contact me via GitHub.
