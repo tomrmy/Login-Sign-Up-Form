@@ -26,12 +26,7 @@ These pages are purely front-end, meaning there is no data processing (no saving
 
 This project does not require any complex development environment. You just need a modern web browser (Chrome, Firefox, Edge, Safari, etc.) to view the pages.
 
-## Installation
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/username/projet-login-signup.git
+## Informations
 
 These pages are purely visual templates. They do not include any server-side processing or dynamic validation.
 License
