@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: #205D9E;
+    font-family: "Poppins";
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.formulaire{
+    border: 2px solid #205D9E;
+    width: 20%;
+    margin: auto;
+    height: 50vh;
+    border-radius: 10px;
+}
+
+.formulaire h1{
+    text-align: center;
+    font-size: 1.8rem;
+    color: #205D9E;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.input{
+    display: flex;
+    flex-direction: column;
+    width: 15vw;
+    margin: auto;
+    gap: 10px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.input input{
+    border: none;
+    border-radius: 5px;
+    height: 4vh;
+    text-align: center;
+    background-color: #F0F0F0;
+}
+
+.input input:focus{
+    border: none;
+    text-decoration: none;
+    box-shadow: none;
+}
+
+button{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: #205D9E;
+    height: 4vh;
+    border-radius: 5px;
+    width: 10vw;
+    margin-bottom: 5px;
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+button:hover{
+    background-color: #2870BD;
+}
+
+p{
+    text-align: center;
+}
+
+.login-btn{
+    text-decoration: none;
+    color: #205D9E;
+}
+
+.login-btn:hover{
+    text-decoration: underline;
+}
+
+.form {
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.form i {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #205D9E;
+}
+
+.form input {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.remember{
+    display: flex;
+    width: 15vw;
+    margin: auto;
+    gap: 10px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+}
+
+.forgot {
+    margin-top: 30px;
+}
+
+.have-account{
+    margin-top: 40px;
+}
